@@ -1,0 +1,16 @@
+[
+	{
+		"name": "crossark8",
+		"state": "/tmp/state8.json",
+		"feed_url": "http://arkdedicated.com/xbox/cache/officialserverlist.json",
+		"webhook_url": "INSERT DISCORD WEBHOOK ADDRESS HERE",
+		"filter": {"ClusterId": "NewPVPCrossArk8"}
+	},
+	{
+		"name": "crossark12",
+		"state": "/tmp/state12.json",
+		"feed_url": "http://arkdedicated.com/xbox/cache/officialserverlist.json",
+		"webhook_url": "INSERT DISCORD WEBHOOK ADDRESS HERE",
+		"filter": {"ClusterId": "NewPVPCrossArk12"}
+	}
+]
